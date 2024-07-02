@@ -1,5 +1,19 @@
 # SQLZOO
 
+## About
+Welcome to the SQLzoo Solutions repository! This repository is dedicated to providing comprehensive and well-documented solutions to the exercises available on SQLzoo.net. The purpose of this repository is to serve as a learning resource for individuals looking to enhance their SQL skills, from beginners to more advanced users.
+
+## Purpose
+The primary goals of this repository are:
+
+**Educational Resource:** To offer clear, concise, and correct solutions to the various SQL challenges presented on [SQLzoo.net](https://sqlzoo.net/wiki/SQL_Tutorial), helping users to understand and learn SQL concepts effectively.
+
+**Reference Guide:** To act as a handy reference for common SQL queries and techniques, showcasing practical examples and solutions that can be utilized in real-world scenarios.
+
+**Skill Development:** To assist users in practicing and honing their SQL skills by providing step-by-step solutions and explanations for each exercise, covering a wide range of topics from basic SELECT statements to more complex operations like JOINs, window functions, and recursive queries.
+
+**Community Contribution:** To encourage collaboration and knowledge sharing among the SQL community, allowing others to contribute their solutions, insights, and improvements. By exploring the solutions in this repository, you can deepen your understanding of SQL, learn new techniques, and prepare for data-related roles such as data analysts and database administrators.
+
 ## Table of Content
 1. [SELECT BASICS](#select-basics)
 2. [SELECT QUIZ](#select-quiz)
